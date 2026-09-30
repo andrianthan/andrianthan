@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🎓 CS @ San Jose State University, Spring 2027 &nbsp;·&nbsp; 📍 San Jose, CA
+  🎓 CS @ San Jose State University &nbsp;·&nbsp; 📍 San Jose, CA
 </p>
 
 ---
