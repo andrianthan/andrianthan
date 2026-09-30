@@ -21,10 +21,12 @@
 *Jun 2026 – Dec 2026*
 Shipped a full-stack AI copilot (React/TS/Vite/Zustand + Python FastAPI) used by 50+ planners and NPI engineers, cutting demand-spike investigation time 70%.
 
-**Software Engineering Intern**, Hanna Center &nbsp;·&nbsp; *Dec 2025 – Jun 2026*
+### **Hanna Center** — Software Engineering Intern
+*Dec 2025 – Jun 2026*
 Architected LLM agent pipelines from scratch across 3 concurrent projects — prompt stacks, task workflows, eval harnesses — saving $30,000+.
 
-**Software Engineering Intern**, Blue Dome Technologies &nbsp;·&nbsp; *Aug 2025 – Dec 2025*
+### **Blue Dome Technologies** — Software Engineering Intern
+*Aug 2025 – Dec 2025*
 Took a human-in-the-loop label-verification tool (Flask + JS + SQLite) from prototype to production for QA analysts, with TPM 2.0-backed device auth.
 
 ### **Micron Technology** — Data Science Intern
