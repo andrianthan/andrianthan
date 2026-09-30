@@ -17,7 +17,8 @@
 
 ### 💼 Experience
 
-**AI Software Engineer Intern**, Tesla — Service Demand Planning &nbsp;·&nbsp; *Jun 2026 – Dec 2026*
+### **Tesla** — AI Software Engineer Intern, Service Demand Planning
+*Jun 2026 – Dec 2026*
 Shipped a full-stack AI copilot (React/TS/Vite/Zustand + Python FastAPI) used by 50+ planners and NPI engineers, cutting demand-spike investigation time 70%.
 
 **Software Engineering Intern**, Hanna Center &nbsp;·&nbsp; *Dec 2025 – Jun 2026*
@@ -26,7 +27,8 @@ Architected LLM agent pipelines from scratch across 3 concurrent projects — pr
 **Software Engineering Intern**, Blue Dome Technologies &nbsp;·&nbsp; *Aug 2025 – Dec 2025*
 Took a human-in-the-loop label-verification tool (Flask + JS + SQLite) from prototype to production for QA analysts, with TPM 2.0-backed device auth.
 
-**Data Science Intern**, Micron Technology &nbsp;·&nbsp; *May 2025 – Aug 2025*
+### **Micron Technology** — Data Science Intern
+*May 2025 – Aug 2025*
 Built Python/Snowflake pipelines and risk-classification models flagging high-risk wafers across manufacturing data.
 
 🏆 **1st place — IBM SkillsBuild AI Hackathon**, led an 8-person team (700+ applicants) building a multi-agent academic advising system
