@@ -1,30 +1,44 @@
 <h1 align="center">Hi, I'm Andrian Than 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> — AI agents · LLM pipelines · cloud infrastructure
+  <b>Software Engineer</b> — AI agents · full-stack · LLM pipelines
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/andrian-than"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:andrian.than.api@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  🎓 CS @ San Jose State University, Spring 2027 &nbsp;·&nbsp; 📍 San Jose, CA
 </p>
 
 ---
 
-- 🔭 **AI Software Engineer Intern @ Tesla** — built AI agent suites for service-parts demand planning (cut forecast-analysis time ~70%, served 5 planners)
-- 🧠 Deep into **multi-agent orchestration, RAG, and agentic workflows** on AWS
-- ⚡ Previously: **Micron** (data science / yield modeling), **Hanna Center**, **Blue Dome Technologies**
-- 🏆 **1st place — IBM SkillsBuild AI Hackathon** (led an 8-person team, picked from 700+ applicants)
-- 📫 [linkedin.com/in/andrian-than](https://linkedin.com/in/andrian-than)
+### 💼 Experience
+
+**AI Software Engineer Intern**, Tesla — Service Demand Planning &nbsp;·&nbsp; *Jun 2026 – Dec 2026*
+Shipped a full-stack AI copilot (React/TS/Vite/Zustand + Python FastAPI) used by 50+ planners and NPI engineers, cutting demand-spike investigation time 70%.
+
+**Software Engineering Intern**, Hanna Center &nbsp;·&nbsp; *Dec 2025 – Jun 2026*
+Architected LLM agent pipelines from scratch across 3 concurrent projects — prompt stacks, task workflows, eval harnesses — saving $30,000+.
+
+**Software Engineering Intern**, Blue Dome Technologies &nbsp;·&nbsp; *Aug 2025 – Dec 2025*
+Took a human-in-the-loop label-verification tool (Flask + JS + SQLite) from prototype to production for QA analysts, with TPM 2.0-backed device auth.
+
+**Data Science Intern**, Micron Technology &nbsp;·&nbsp; *May 2025 – Aug 2025*
+Built Python/Snowflake pipelines and risk-classification models flagging high-risk wafers across manufacturing data.
+
+🏆 **1st place — IBM SkillsBuild AI Hackathon**, led an 8-person team (700+ applicants) building a multi-agent academic advising system
 
 ### 🛠 Tech
 
-`Python` · `Java` · `TypeScript` · `SQL`
-**Cloud/AI:** AWS (Lambda · CDK · Step Functions · Bedrock · RDS) · LangChain · Vector DBs · MCP · RAG
-**Tools:** Docker · Git · Snowflake · Streamlit
-
-### 📌 Featured Projects
-
-| Project | What it is |
-|---|---|
-| **[hana-grants-agent](https://github.com/andrianthan/hana-grants-agent)** | AWS-native grant research agent — Lambda fan-out, Bedrock embeddings, multi-stage LLM evaluation, CDK infra |
-| **[Tesla Service Demand Copilot](https://github.com/andrianthan/Tesla)** | Natural-language → SQL over DuckDB, powered by an LLM, returns tables + charts |
-| **[magic-hour-mcp](https://github.com/andrianthan/magic-hour-mcp)** | MCP server for AI video/image tools — face swap, lip sync, file management |
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `Java`
+**Frontend:** React · Next.js · Vite · Zustand · Tailwind CSS
+**Backend:** FastAPI · Flask · Pydantic · REST APIs · Node.js
+**Data:** PostgreSQL · MySQL · Snowflake · DuckDB · Redis · SQLAlchemy
+**AI/LLM:** agentic pipelines · RAG · multi-agent orchestration · LLM eval (promptfoo, deepeval)
+**Infra:** Docker · AWS (CDK · Lambda · RDS · Step Functions) · GitHub Actions CI/CD
 
 ---
 
